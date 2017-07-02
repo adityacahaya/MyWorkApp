@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "652361058555",
+    "firebase_url": "https://kadeksigninproject.firebaseio.com",
+    "project_id": "kadeksigninproject",
+    "storage_bucket": "kadeksigninproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652361058555:android:160ed066c72b473c",
+        "android_client_info": {
+          "package_name": "com.example.android.mywork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652361058555-9tls45lt28fo3hgu5spqa7vsrchlckm1.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "652361058555-dbhgamg43utcn6trk24ouove0i14q0bs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.mywork",
+            "certificate_hash": "4bb208fccb0b0751cab4b09bcc6ffcd66fb0f7e1"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqmmLOgjjY74GAPQ8RiASlF1uua_LKPdc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652361058555-9tls45lt28fo3hgu5spqa7vsrchlckm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

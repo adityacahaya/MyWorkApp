@@ -1,0 +1,37 @@
+<resources>
+
+    <!-- string untuk nama aplikasi -->
+    <string name="app_name">\n My Work App</string>
+
+    <!-- string untuk mengisi spinner -->
+    <string name="work">Work</string>
+    <string name="play">Play</string>
+    <string name="learn">Learn</string>
+
+    <!-- string untuk title pada sliding tab -->
+    <string name="activity">Activity</string>
+    <string name="office">Office</string>
+    <string name="user">User</string>
+
+    <!-- string untuk fragment_activity -->
+    <string name="label_nama">Nama : </string>
+    <string name="label_waktu">Waktu : </string>
+    <string name="label_aktivitas">Tulis Aktivitas...</string>
+    <string name="label_note">Tulis Note...</string>
+    <string name="label_kategori">Kategori : </string>
+    <string name="label_submit">Submit</string>
+    <string name="input_data">Data</string>
+
+    <!-- string untuk home_activity -->
+    <string name="error_message">Sign In Must Use Internet Connection, So Please Activate Your
+        Internet Connection To Sign In</string>
+
+    <!-- string untuk fragment_office -->
+    <string name="backward">Backward</string>
+    <string name="forward">Forward</string>
+    <string name="refresh">Refresh</string>
+
+    <!-- string untuk fragment_user -->
+    <string name="sign_out">Sign Out</string>
+
+</resources>
